@@ -18,7 +18,7 @@ The project includes:
     + Distance
     + Groups
     + Binding_Energy
-2. Edit file paths on your own computer as follow:
+2. Edit file paths on your own as follow:
 ```
 file_read = 'your_file_path_1'   # Input dataset (.xlsx)
 output_dir = 'your_file_path_2'  # Output directory for results
