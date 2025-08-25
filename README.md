@@ -27,11 +27,6 @@ output_dir = 'your_file_path_2'  # Output directory for results
 ```
 python svr_binding_energy.py
 ```
-4. Outputs:
-+ SVR.xlsx: PCA data and contour matrices.
-+ SVR_Contour_Figure.png: Contour visualization of binding energy prediction.
-+ Feature_Importance.xlsx: SHAP values, permutation importance, and combined importance.
-
 
 ## File Structure
 ```
