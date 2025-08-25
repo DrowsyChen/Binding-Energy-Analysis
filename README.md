@@ -36,6 +36,7 @@ python svr_binding_energy.py
 ## File Structure
 ```
 .
-├── svr_binding_energy.py      # Main program
+├── Dataset.xlsx           # Dataset
+├── Bingding_Energy_Analysis.ipynb      # Main script
 └── README.md                  # Documentation
 ```
