@@ -23,7 +23,7 @@ The project includes:
 file_read = 'your_file_path_1'   # Input dataset (.xlsx)
 output_dir = 'your_file_path_2'  # Output directory for results
 ```
-3. Run the program:
+3. Run the program on Jupyter Notebook or Colab:
 ```
 python svr_binding_energy.py
 ```
