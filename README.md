@@ -1,4 +1,4 @@
-# Binding-Energy-Analysis of $C_3N$
+# Binding-Energy-Analysis of $C_3N$ Structures
 This repository provides a complete pipeline for analyzing the binding energy of a series of $C_3N$ structure using Support Vector Regression (SVR) combined with Principal Component Analysis (PCA), grid search optimization, cross-validation, and feature importance analysis (SHAP and permutation importance).
 
 The project includes:
